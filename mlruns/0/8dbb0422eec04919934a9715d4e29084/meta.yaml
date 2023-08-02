@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/8dbb0422eec04919934a9715d4e29084/artifacts
+end_time: 1690950003654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dbb0422eec04919934a9715d4e29084
+run_name: powerful-foal-707
+run_uuid: 8dbb0422eec04919934a9715d4e29084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690950003591
+status: 3
+tags: []
+user_id: Acer

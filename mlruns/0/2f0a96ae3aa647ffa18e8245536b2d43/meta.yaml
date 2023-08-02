@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/2f0a96ae3aa647ffa18e8245536b2d43/artifacts
+end_time: 1690949965917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f0a96ae3aa647ffa18e8245536b2d43
+run_name: grandiose-zebra-155
+run_uuid: 2f0a96ae3aa647ffa18e8245536b2d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690949965839
+status: 4
+tags: []
+user_id: Acer
